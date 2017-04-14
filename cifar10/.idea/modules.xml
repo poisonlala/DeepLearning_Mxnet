@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cifar10.iml" filepath="$PROJECT_DIR$/.idea/cifar10.iml" />
+      <module fileurl="file://C:\Users\qiao\PycharmProjects\mnist-test\.idea\mnist-test.iml" filepath="C:\Users\qiao\PycharmProjects\mnist-test\.idea\mnist-test.iml" />
+    </modules>
+  </component>
+</project>
